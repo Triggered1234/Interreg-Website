@@ -7,4 +7,6 @@ While I did code most of the styling for the website, I also used bootstraps for
 
 Languages used for building this project are:PhP,HTML,CSS,SQL and JavaScript.
 
+You can check the project out via the URL:  https://www.interregipa-creativitywithoutfrontiers.com/index.php
+
 
