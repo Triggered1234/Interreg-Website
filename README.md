@@ -1,4 +1,4 @@
-Welcome to the website that I created for a school project calleed Creativity Without Frontiers!
+Welcome to the website that I created for a school project called Creativity Without Frontiers!
 
 This is my very first project, and while it may not be much, both at that time and in present I'm still proud of the work I did.
 
